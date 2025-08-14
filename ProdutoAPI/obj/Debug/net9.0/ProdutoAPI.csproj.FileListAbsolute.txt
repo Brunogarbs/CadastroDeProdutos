@@ -40,3 +40,4 @@
 /Users/Bruno/Projetos/CadastroDeProdutos/ProdutoAPI/obj/Debug/net9.0/ProdutoAPI.pdb
 /Users/Bruno/Projetos/CadastroDeProdutos/ProdutoAPI/obj/Debug/net9.0/ProdutoAPI.genruntimeconfig.cache
 /Users/Bruno/Projetos/CadastroDeProdutos/ProdutoAPI/obj/Debug/net9.0/ref/ProdutoAPI.dll
+/Users/Bruno/Projetos/CadastroDeProdutos/ProdutoAPI/obj/Debug/net9.0/ProdutoAPI.sourcelink.json
